@@ -1,0 +1,7 @@
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+C:\Users\EAHSCS\Documents\GitHub\Final-Game\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Textures\Background.xnb
